@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <tr>
     <td><strong>🧱 Programming Languages</strong></td>
     <td><img src="assets/icons/c.png" alt="C" width="40"/></td>
-    <td><img src="assets/icons/java.svg" alt="C#" width="40"/></td>
+    <td><img src="assets/icons/c_sharp.png" alt="C#" width="40"/></td>
     <td><img src="assets/icons/java.svg" alt="Java" width="40"/></td>
     <td><img src="assets/icons/javaScript.jpg" alt="JavaScript" width="40"/></td>
   </tr>
