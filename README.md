@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
   <tr>
     <td><strong>🌐 Web Development</strong></td>
-    <td><img src="assets/icons/html.png" alt="HTML5" width="46"/></td>
-    <td><img src="assets/icons/css.png" alt="CSS3" width="60"/></td>
+    <td><img src="assets\icons\html5.png" alt="HTML5" width="46"/></td>
+    <td><img src="assets\icons\css3.png" alt="CSS3" width="60"/></td>
     <td></td>
     <td></td>
   </tr>
