@@ -16,12 +16,35 @@ Here are some ideas to get you started:
 # Hi, I’m Kerim — a Full‑Stack Developer 👋
 
 ## 🤖 Tech stack
+<table align="center">
+  <tr>
+    <th colspan="9" align="center"><h3 align="center">🧰 Skills</h3></th>
+  </tr>
 
-| Category | Tech |
-|---|---|
-| 🧱 Programming languages | <img src="assets/icons/c.png" alt="C" height="28" /> <img src="assets/icons/c_sharp.png" alt="C#" height="28" /> <img src="assets/icons/java.svg" alt="Java" height="28" /> <img src="assets/icons/javaScript.jpg" alt="JavaScript" height="28" /> |
-| 🌐 Web development | <img src="assets/icons/html.png" alt="HTML5" height="28" /> <img src="assets/icons/css.png" alt="CSS" height="28" /> |
-| 💾 Databases | <img src="assets/icons/mysql.svg" alt="MySQL" height="28" /> <img src="assets/icons/maria_db.png" alt="MariaDB" height="28" /> <img src="assets/icons/postgreSQL.png" alt="PostgreSQL" height="28" /> |
+  <tr>
+    <td><strong>🧱 Programming Languages</strong></td>
+    <td><img src="assets/icons/c.png" alt="C" width="40"/></td>
+    <td><img src="assets/icons/java.svg" alt="C#" width="40"/></td>
+    <td><img src="assets/icons/java.svg" alt="Java" width="40"/></td>
+    <td><img src="assets/icons/javaScript.jpg" alt="JavaScript" width="40"/></td>
+  </tr>
+
+  <tr>
+    <td><strong>🌐 Web Development</strong></td>
+    <td><img src="assets/icons/html.png" alt="HTML5" width="40"/></td>
+    <td><img src="assets/icons/css.png" alt="CSS3" width="40"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><strong>💾 Databases</strong></td>
+    <td><img src="assets/icons/mysql.svg" alt="MySQL" width="40"/></td>
+    <td><img src="assets/icons/postgreSQL.png" alt="PostgreSQL" width="40"/></td>
+    <td><img src="assets/icons/maria_db.png" alt="MariaDB" width="40"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🌱 Currently learning
 - Python
