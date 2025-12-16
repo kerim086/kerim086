@@ -18,30 +18,30 @@ Here are some ideas to get you started:
 ## 🤖 Tech stack
 <table align="center">
   <tr>
-    <th colspan="9" align="center"><h3 align="center">🧰 Skills</h3></th>
+    <th colspan="5" align="center"><h3 align="center">🧰 Skills</h3></th>
   </tr>
 
   <tr>
     <td><strong>🧱 Programming Languages</strong></td>
-    <td><img src="assets/icons/c.png" alt="C" width="40"/></td>
-    <td><img src="assets/icons/c_sharp.png" alt="C#" width="40"/></td>
-    <td><img src="assets/icons/java.svg" alt="Java" width="40"/></td>
-    <td><img src="assets/icons/javaScript.jpg" alt="JavaScript" width="40"/></td>
+    <td><img src="assets/icons/c.png" alt="C" width="60"/></td>
+    <td><img src="assets/icons/c_sharp.png" alt="C#" width="60"/></td>
+    <td><img src="assets/icons/java.svg" alt="Java" width="60"/></td>
+    <td><img src="assets/icons/javaScript.jpg" alt="JavaScript" width="60"/></td>
   </tr>
 
   <tr>
     <td><strong>🌐 Web Development</strong></td>
-    <td><img src="assets/icons/html.png" alt="HTML5" width="40"/></td>
-    <td><img src="assets/icons/css.png" alt="CSS3" width="40"/></td>
+    <td><img src="assets/icons/html.png" alt="HTML5" width="46"/></td>
+    <td><img src="assets/icons/css.png" alt="CSS3" width="60"/></td>
     <td></td>
     <td></td>
   </tr>
 
   <tr>
     <td><strong>💾 Databases</strong></td>
-    <td><img src="assets/icons/mysql.svg" alt="MySQL" width="40"/></td>
-    <td><img src="assets/icons/postgreSQL.png" alt="PostgreSQL" width="40"/></td>
-    <td><img src="assets/icons/maria_db.png" alt="MariaDB" width="40"/></td>
+    <td><img src="assets/icons/mysql.svg" alt="MySQL" width="60"/></td>
+    <td><img src="assets/icons/postgreSQL.png" alt="PostgreSQL" width="60"/></td>
+    <td><img src="assets/icons/maria_db.png" alt="MariaDB" width="60"/></td>
     <td></td>
   </tr>
 </table>
